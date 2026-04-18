@@ -7,7 +7,7 @@
 Building frontend websites using Typescript, JS and modern frontend technologies like Next.js
 
 🌱 I’m currently learning:
-electrical, CORS, Machine Learning, Full Stack Web Development, and PostgreSQL Database
+electrical, CORS, Full Stack Web Development, and PostgreSQL Database
 
 👯 I’m looking to collaborate on:
 
