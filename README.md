@@ -6,16 +6,17 @@
 🔭 I’m currently working on
 Building frontend websites using Typescript, JS and modern frontend technologies like Next.js
 
-🌱 I’m currently learning
+🌱 I’m currently learning:
 electrical, CORS, Machine Learning, Full Stack Web Development, and PostgreSQL Database
 
-👯 I’m looking to collaborate on
+👯 I’m looking to collaborate on:
 Open source projects related to TS frontend, Strapi, PostgreSQL backend, Flask APIs, and full stack applications
 
-🤝 I’m looking for help with
+🤝 I’m looking for help with:
 Improving backend architecture, scaling applications, and understanding advanced DBMS concepts
 
 💬 Ask me about
+
 frontend web design, Open source frameworks, and Content management systems
 
 ⚡ Fun fact
