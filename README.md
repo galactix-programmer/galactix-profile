@@ -16,7 +16,7 @@ Open source projects related to TS frontend, Strapi, PostgreSQL backend, Flask A
 Improving backend architecture, scaling applications, and understanding advanced DBMS concepts
 
 💬 Ask me about
-frontend web design, Open source frameworks, and database design
+frontend web design, Open source frameworks, and Content management systems
 
 ⚡ Fun fact
 I enjoy turning ideas into real-world applications and constantly exploring new technologies 🚀
