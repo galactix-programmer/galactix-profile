@@ -1,27 +1,19 @@
-👋 Hey, I'm Shubhanga!
+<h1 align="center">Hi 👋, I'm Shubhanga</h1>
+<h3 align="center">Hardware engineer | freelance frontend web Developer | Strapi | UI design Enthusiast</h3>
 
-🚀 Hardware engineer | Frontend web Developer | Strapi | UI design Enthusiast
-# About Me:
+- 🔭 I’m currently working on **Building frontend websites using Typescript, hardware design, JS and modern frontend technologies like Next.js**
 
-🔭 I’m currently working on
-Building frontend websites using Typescript, JS and modern frontend technologies like Next.js
+- 🌱 I’m currently learning **electrical, CORS, Full Stack Web Development, and PostgreSQL Database**
 
-🌱 I’m currently learning:
-electrical, CORS, Full Stack Web Development, and PostgreSQL Database
+- 👯 I’m looking to collaborate on **Open source projects related to electronics, TS frontend, Strapi, PostgreSQL backend, Flask APIs, and full stack applications**
 
-👯 I’m looking to collaborate on:
+- 🤝 I’m looking for help with **Improving backend architecture, scaling applications, and understanding DBMS concepts**
 
-Open source projects related to electronics, TS frontend, Strapi, PostgreSQL backend, Flask APIs, and full stack applications
+- ⚡ Fun fact **I enjoy turning ideas into real-world applications and constantly exploring new technologies**
 
-🤝 I’m looking for help with:
-Improving backend architecture, scaling applications, and understanding advanced DBMS concepts
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-💬 Ask me about
-
-frontend web design, Open source frameworks, and Content management systems
-
-⚡ Fun fact
-I enjoy turning ideas into real-world applications and constantly exploring new technologies 🚀
-
-🌐 Socials:
-<img width="57" height="20" alt="image" link="https://www.linkedin.com/in/shubhanga-b-engineer/" src="https://github.com/user-attachments/assets/b21d7f72-367f-4d5a-ac9e-a0a8b806daae" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
